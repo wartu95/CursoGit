@@ -6,5 +6,4 @@ Ahora es momento de realizar una segunda prueba para la segunda edición.
 
 --Este la edición desde GitHub
 
-
---Este el la segunda edición en GitHub :)
+--Es git no esta se vizualizando desde mi proyecto
